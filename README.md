@@ -23,6 +23,8 @@ OPEN SOURCE PROJECTS
   https://github.com/mrusme/geld
 - Conclusive: A CLI client for Plausible Analytics with nice ASCII graphs
   https://github.com/mrusme/conclusive
+- Gomphotherium: A TUI client for the Fediverse / Mastodon / Pleroma
+  https://github.com/mrusme/gomphotherium
 - More
   https://github.com/mrusme?tab=repositories
 
