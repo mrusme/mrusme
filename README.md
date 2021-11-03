@@ -11,7 +11,8 @@
 OPEN SOURCE PROJECTS
 ====================
 
-- Kiwi: Turn your Pimoroni Keybow into a fully customizable, wireless Elgato Stream Deck! 
+- Kiwi: Turn your Pimoroni Keybow into a fully customizable, wireless 
+  Elgato Stream Deck! 
   https://github.com/mrusme/kiwi
 - Journalist: An RSS aggregator a.k.a. "self-hosted Feedly"
   https://github.com/mrusme/journalist
