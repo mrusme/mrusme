@@ -11,6 +11,7 @@
 - [Geld](https://github.com/mrusme/geld): A CLI budget-tracking tool, compatible with your bank's CSV exports
 - [Conclusive](https://github.com/mrusme/conclusive): A CLI client for Plausible Analytics with nice ASCII graphs
 - [Gomphotherium](https://github.com/mrusme/gomphotherium): A TUI client for the Fediverse / Mastodon / Pleroma
+- [Paperwork \[dead\]](https://github.com/paperwork): OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 - [More ...](https://github.com/mrusme?tab=repositories)
 
 
