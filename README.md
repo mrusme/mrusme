@@ -24,7 +24,9 @@ Read it at https://xn--gckvb8fzb.com
 ## LET'S TEAM UP
 
 Want to work on cool things, whether it's open source projects, an idea for a 
-startup or commercial projects? Reach out!
+startup or commercial projects? \
+Reach out!
 
-marius@xn--gckvb8fzb.com (4D38 99AF 73E7 F5FE 9B39 C822 272E D814 BF63 261F)
+marius@xn--gckvb8fzb.com \
+`4D38 99AF 73E7 F5FE 9B39 C822 272E D814 BF63 261F`
 
