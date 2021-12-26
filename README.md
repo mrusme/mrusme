@@ -3,6 +3,7 @@
 
 ## OPEN SOURCE PROJECTS
 
+- [Superhighway84](https://github.com/mrusme/superhighway84): Usenet-inspired decentralized internet discussion system
 - [Kiwi](https://github.com/mrusme/kiwi): Turn your Pimoroni Keybow into a fully customizable, wireless 
   Elgato Stream Deck! 
 - [Journalist](https://github.com/mrusme/journalist): An RSS aggregator a.k.a. "self-hosted Feedly"
