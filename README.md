@@ -20,8 +20,15 @@
 
 ## JOURNAL
 
-Read it at https://xn--gckvb8fzb.com 
-(that's punycode for https://マリウス.com) 
+Read it at [https://xn--gckvb8fzb.com](https://xn--gckvb8fzb.com).\
+That's [punycode](https://en.wikipedia.org/wiki/Punycode) for https://マリウス.com.
+
+
+## SETUP
+
+- [Computer](https://xn--gckvb8fzb.com/computer/)
+- [Infrastructure](https://xn--gckvb8fzb.com/infrastructure/)
+- [dotfiles](https://github.com/mrusme/dotfiles)
 
 
 ## LET'S TEAM UP
@@ -33,6 +40,5 @@ Reach out!
 [marius@xn--gckvb8fzb.com](mailto:marius@xn--gckvb8fzb.com?subject=git%20commit%20-m%20%22Hey%20there!%22) \
 `4D38 99AF 73E7 F5FE 9B39 C822 272E D814 BF63 261F`
 
-[irc.libera.chat:6697/#hhkb](ircs://irc.libera.chat:6697/#hhkb)
 
 Birds aren't real.
