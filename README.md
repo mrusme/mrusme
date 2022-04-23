@@ -41,4 +41,23 @@ Reach out!
 `4D38 99AF 73E7 F5FE 9B39 C822 272E D814 BF63 261F`
 
 
-Birds aren't real.
+## SUPPORT
+
+If you like the work I do and would like to support it I'd appreciate
+contributions via Monero to the following address:
+
+![89NEanZgZVoidcWntTrATk68thhgi3bhFRQUg5h6mmNdSC5FDLAeFRbRkLKTWYhi1YFdw5iUf3S2tELxRHA2qXBMNhUcYbw](xmr.png)
+
+```
+89NEanZgZVoidcWntTrATk68thhgi3bhFRQUg5h6mmNdSC5FDLAeFRbRkLKTWYhi1YFdw5iUf3S2tELxRHA2qXBMNhUcYbw
+```
+
+If you don't have XMR and would like to contribute via 
+[Bitcoin](https://sideshift.ai/btc/xmr), 
+[Ethereum](https://sideshift.ai/eth/xmr) or any
+other cryptocurrency, you can use the following services:
+
+- [SideShift](https://sideshift.ai/btc/xmr)
+- [changenow](https://changenow.io/?from=btc&to=xmr)
+- [fixedfloat](https://fixedfloat.com)
+
