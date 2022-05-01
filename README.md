@@ -16,6 +16,7 @@
 - [reader](https://github.com/mrusme/reader): A minimal command line reader offering better readability of web pages on the CLI
 - [cexec](https://github.com/mrusme/cexec): Cached Exec
 - [Paperwork \[dead\]](https://github.com/paperwork): OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
+- [Gentoo contributions](https://github.com/gentoo/gentoo/pulls?q=is%3Apr+author%3Amrusme+)
 - [More ...](https://github.com/mrusme?tab=repositories)
 
 
