@@ -5,6 +5,7 @@
 
 - [Superhighway84](https://github.com/mrusme/superhighway84): Usenet-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
 - [Planor](https://github.com/mrusme/planor): The Cloud Aviator: TUI client for cloud services
+- [addrb](https://github.com/mrusme/addrb): A lightweight CLI / TUI address book that supports CardDAV
 - [Kiwi](https://github.com/mrusme/kiwi): Turn your Pimoroni Keybow into a fully customizable, wireless 
   Elgato Stream Deck! 
 - [Journalist](https://github.com/mrusme/journalist): An RSS aggregator a.k.a. "self-hosted Feedly"
