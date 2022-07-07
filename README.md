@@ -1,4 +1,4 @@
-![マリウス](header.png)
+![マリウス](header.jpg)
 
 
 ## OPEN SOURCE PROJECTS
