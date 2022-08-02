@@ -7,7 +7,6 @@
 - [Planor](https://github.com/mrusme/planor): The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)
   - [go-fleek](https://github.com/mrusme/go-fleek): Tiny Go client library for the Fleek API
   - [go-render](https://github.com/mrusme/go-render): Tiny Go client library for the Render.com API
-- [addrb](https://github.com/mrusme/addrb): A lightweight CLI / TUI address book that supports CardDAV
 - [Kiwi](https://github.com/mrusme/kiwi): Turn your Pimoroni Keybow into a fully customizable, wireless 
   Elgato Stream Deck! 
 - [Journalist](https://github.com/mrusme/journalist): An RSS aggregator a.k.a. "self-hosted Feedly"
@@ -16,6 +15,7 @@
 - [Geld](https://github.com/mrusme/geld): A CLI budget-tracking tool, compatible with your bank's CSV exports
 - [Conclusive](https://github.com/mrusme/conclusive): A CLI client for Plausible Analytics with nice ASCII graphs
 - [Gomphotherium](https://github.com/mrusme/gomphotherium): A TUI client for the Fediverse / Mastodon / Pleroma
+- [addrb](https://github.com/mrusme/addrb): A lightweight CLI / TUI address book that supports CardDAV
 - [reader](https://github.com/mrusme/reader): A minimal command line reader offering better readability of web pages on the CLI
 - [cexec](https://github.com/mrusme/cexec): Execute any command, cache its output and get cached output on subsequent execution
 - [Paperwork \[dead\]](https://github.com/paperwork): OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
