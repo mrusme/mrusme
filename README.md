@@ -5,8 +5,8 @@
 
 - [Superhighway84](https://github.com/mrusme/superhighway84): Usenet-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
 - [Planor](https://github.com/mrusme/planor): The Cloud Aviator: TUI client for cloud services
-- [go-fleek](https://github.com/mrusme/go-fleek): Tiny Go client library for the Fleek API
-- [go-render](https://github.com/mrusme/go-render): Tiny Go client library for the Render.com API
+  - [go-fleek](https://github.com/mrusme/go-fleek): Tiny Go client library for the Fleek API
+  - [go-render](https://github.com/mrusme/go-render): Tiny Go client library for the Render.com API
 - [addrb](https://github.com/mrusme/addrb): A lightweight CLI / TUI address book that supports CardDAV
 - [Kiwi](https://github.com/mrusme/kiwi): Turn your Pimoroni Keybow into a fully customizable, wireless 
   Elgato Stream Deck! 
