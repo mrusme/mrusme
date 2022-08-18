@@ -47,7 +47,7 @@ mail: [marius@xn--gckvb8fzb.com](mailto:marius@xn--gckvb8fzb.com?subject=git%20c
 gpg: [`4D38 99AF 73E7 F5FE 9B39 C822 272E D814 BF63 261F`](https://github.com/mrusme.gpg)
 
 xmpp: [marius@xmpp.co](xmpp:marius@xmpp.co) \
-fingerprint: `BEC2BE84 63FFDC65 B2BFD9D0 B690CA84 1BF71FC8 F8AF7155 DBCD217C 48852F3B`
+omemo: `BEC2BE84 63FFDC65 B2BFD9D0 B690CA84 1BF71FC8 F8AF7155 DBCD217C 48852F3B`
 
 ## SUPPORT
 
