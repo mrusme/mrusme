@@ -35,9 +35,6 @@
 Read it at [https://xn--gckvb8fzb.com](https://xn--gckvb8fzb.com)! \
 That's [punycode](https://en.wikipedia.org/wiki/Punycode) for https://マリウス.com.
 
-Let me message you the latest posts...
-
-[![](https://xn--gckvb8fzb.com/index.svg)](https://xn--gckvb8fzb.com)
 
 
 ## LET'S TEAM UP
