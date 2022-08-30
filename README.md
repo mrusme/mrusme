@@ -32,10 +32,10 @@
 
 ## JOURNAL
 
+[![Latest posts](https://xn--gckvb8fzb.com/index.svg)](https://xn--gckvb8fzb.com)
+
 Read it at [https://xn--gckvb8fzb.com](https://xn--gckvb8fzb.com)! \
 That's [punycode](https://en.wikipedia.org/wiki/Punycode) for https://マリウス.com.
-
-[![Latest posts](https://xn--gckvb8fzb.com/index.svg)](https://xn--gckvb8fzb.com)
 
 
 ## LET'S TEAM UP
