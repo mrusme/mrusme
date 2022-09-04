@@ -8,7 +8,7 @@
   - [Canard](https://github.com/mrusme/canard): A TUI client for the Journalist RSS aggregator
 - [reader](https://github.com/mrusme/reader): A minimal command line reader offering better readability of web pages on the CLI
 - [Zeit](https://github.com/mrusme/zeit): A CLI time-tracking tool compatible with the macOS/iOS Tyme format
-- [Cloudcash](https://github.com/mrusme/cloudcash): Check your cloud spending from the CLI (and from Waybar)!
+- [Cloudcash](https://github.com/mrusme/cloudcash): Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
 - [Kiwi](https://github.com/mrusme/kiwi): Turn your Pimoroni Keybow into a fully customizable, wireless 
   Elgato Stream Deck! 
 - [Planor](https://github.com/mrusme/planor): The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)
