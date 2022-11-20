@@ -16,6 +16,7 @@
   - [go-render](https://github.com/mrusme/go-render): Tiny Go client library for the Render.com API
 - [Geld](https://github.com/mrusme/geld): A CLI budget-tracking tool, compatible with your bank's CSV exports
 - [addrb](https://github.com/mrusme/addrb): A lightweight CLI / TUI address book that supports CardDAV
+- [caldr](https://github.com/mrusme/caldr): A lightweight CLI / TUI calendar that supports CalDAV
 - [Conclusive](https://github.com/mrusme/conclusive): A CLI client for Plausible Analytics with nice ASCII graphs
 - [Gomphotherium](https://github.com/mrusme/gomphotherium): A TUI client for the Fediverse / Mastodon / Pleroma
 - [cexec](https://github.com/mrusme/cexec): Execute any command, cache its output and get cached output on subsequent execution
