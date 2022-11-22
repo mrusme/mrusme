@@ -4,25 +4,34 @@
 ## OPEN SOURCE PROJECTS
 
 - [Superhighway84](https://github.com/mrusme/superhighway84): Usenet-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
-- [Journalist](https://github.com/mrusme/journalist): An RSS aggregator a.k.a. "self-hosted Feedly"
-  - [Canard](https://github.com/mrusme/canard): A TUI client for the Journalist RSS aggregator
-- [reader](https://github.com/mrusme/reader): A minimal command line reader offering better readability of web pages on the CLI
-- [Zeit](https://github.com/mrusme/zeit): A CLI time-tracking tool compatible with the macOS/iOS Tyme format
-- [Cloudcash](https://github.com/mrusme/cloudcash): Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
-- [Kiwi](https://github.com/mrusme/kiwi): Turn your Pimoroni Keybow into a fully customizable, wireless 
-  Elgato Stream Deck! 
 - [Planor](https://github.com/mrusme/planor): The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)
   - [go-fleek](https://github.com/mrusme/go-fleek): Tiny Go client library for the Fleek API
   - [go-render](https://github.com/mrusme/go-render): Tiny Go client library for the Render.com API
-- [Geld](https://github.com/mrusme/geld): A CLI budget-tracking tool, compatible with your bank's CSV exports
+- [Journalist](https://github.com/mrusme/journalist): An RSS aggregator a.k.a. "self-hosted Feedly"
+  - [Canard](https://github.com/mrusme/canard): A TUI client for the Journalist RSS aggregator
+- [Kiwi](https://github.com/mrusme/kiwi): Turn your Pimoroni Keybow into a fully customizable, wireless 
+  Elgato Stream Deck! 
+- [Cloudcash](https://github.com/mrusme/cloudcash): Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
+- [Gomphotherium](https://github.com/mrusme/gomphotherium): A TUI client for the Fediverse / Mastodon / Pleroma
+- [Paperwork \[dead\]](https://github.com/paperwork): OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
+
+### Handy Tools
+
 - [addrb](https://github.com/mrusme/addrb): A lightweight CLI / TUI address book that supports CardDAV
 - [caldr](https://github.com/mrusme/caldr): A lightweight CLI / TUI calendar that supports CalDAV
-- [Conclusive](https://github.com/mrusme/conclusive): A CLI client for Plausible Analytics with nice ASCII graphs
-- [Gomphotherium](https://github.com/mrusme/gomphotherium): A TUI client for the Fediverse / Mastodon / Pleroma
+- [reader](https://github.com/mrusme/reader): A minimal command line reader offering better readability of web pages on the CLI
+- [zeit](https://github.com/mrusme/zeit): A CLI time-tracking tool compatible with the macOS/iOS Tyme format
+- [geld](https://github.com/mrusme/geld): A CLI budget-tracking tool, compatible with your bank's CSV exports
+- [conclusive](https://github.com/mrusme/conclusive): A CLI client for Plausible Analytics with nice ASCII graphs
 - [cexec](https://github.com/mrusme/cexec): Execute any command, cache its output and get cached output on subsequent execution
-- [Paperwork \[dead\]](https://github.com/paperwork): OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
-- [Gentoo contributions](https://github.com/gentoo/gentoo/pulls?q=is%3Apr+author%3Amrusme+)
-- [More ...](https://github.com/mrusme?tab=repositories)
+- [pushover-to-xmpp](https://github.com/mrusme/pushover-to-xmpp): Tiny Pushover to XMPP bridge written in Go
+
+### Contributions
+
+- [Gentoo](https://github.com/gentoo/gentoo/pulls?q=is%3Apr+author%3Amrusme+)
+
+
+### [More ...](https://github.com/mrusme?tab=repositories)
 
 
 ## SETUP
