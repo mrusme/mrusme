@@ -36,7 +36,8 @@
 
 ## SETUP
 
-- [Computer](https://xn--gckvb8fzb.com/computer/) ([dotfiles](https://github.com/mrusme/dotfiles))
+- [Computer](https://xn--gckvb8fzb.com/computer/) 
+  - [dotfiles](https://github.com/mrusme/dotfiles)
 - [Keyboard](https://xn--gckvb8fzb.com/keyboard/)
 - [Infrastructure](https://xn--gckvb8fzb.com/infrastructure/)
 
