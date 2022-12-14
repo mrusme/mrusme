@@ -25,6 +25,7 @@
 - [geld](https://github.com/mrusme/geld): A CLI budget-tracking tool, compatible with your bank's CSV exports
 - [conclusive](https://github.com/mrusme/conclusive): A CLI client for Plausible Analytics with nice ASCII graphs
 - [cexec](https://github.com/mrusme/cexec): Execute any command, cache its output and get cached output on subsequent execution
+- [bookmarkdown](https://github.com/mrusme/bookmarkdown): A super lightweight tool for accessing links from a markdown file
 - [pushover-to-xmpp](https://github.com/mrusme/pushover-to-xmpp): Tiny Pushover to XMPP bridge written in Go
 
 ### Contributions
