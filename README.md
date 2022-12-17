@@ -11,8 +11,7 @@
   - [Canard](https://github.com/mrusme/canard): A TUI client for the Journalist RSS aggregator
 - [xbsapi](https://github.com/mrusme/xbsapi): Alternative xBrowserSync API that is a single binary and supports SQLite3, PostgreSQL and MySQL
   - [xbscli](https://github.com/mrusme/xbscli): Command line interface for xbsapi and the official xBrowserSync API 
-- [Kiwi](https://github.com/mrusme/kiwi): Turn your Pimoroni Keybow into a fully customizable, wireless 
-  Elgato Stream Deck! 
+- [Kiwi](https://github.com/mrusme/kiwi): Pimoroni Keybow based Macro Pad (a.k.a. poor-man's Elgato Stream Deck) 
 - [Cloudcash](https://github.com/mrusme/cloudcash): Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
 - [Gomphotherium](https://github.com/mrusme/gomphotherium): A TUI client for the Fediverse / Mastodon / Pleroma
 - [Paperwork \[dead\]](https://github.com/paperwork): OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
