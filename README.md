@@ -19,12 +19,12 @@
 
 ### Handy Tools
 
+- [wth](https://github.com/mrusme/wth): WTH (aka What The Heck) is the better personal information dashboard for your terminal
 - [addrb](https://github.com/mrusme/addrb): A lightweight CLI / TUI address book that supports CardDAV
 - [caldr](https://github.com/mrusme/caldr): A lightweight CLI / TUI calendar that supports CalDAV
 - [reader](https://github.com/mrusme/reader): A minimal command line reader offering better readability of web pages on the CLI
 - [zeit](https://github.com/mrusme/zeit): A CLI time-tracking tool compatible with the macOS/iOS Tyme format
 - [geld](https://github.com/mrusme/geld): A CLI budget-tracking tool, compatible with your bank's CSV exports
-- [wth](https://github.com/mrusme/wth): WTH (aka What The Heck) is the better personal information dashboard for your terminal
 - [conclusive](https://github.com/mrusme/conclusive): A CLI client for Plausible Analytics with nice ASCII graphs
 - [cexec](https://github.com/mrusme/cexec): Execute any command, cache its output and get cached output on subsequent execution
 - [bookmarkdown](https://github.com/mrusme/bookmarkdown): A super lightweight tool for accessing links from a markdown file
