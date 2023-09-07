@@ -64,8 +64,8 @@ Reach out!
 mail: [marius@xn--gckvb8fzb.com](mailto:marius@xn--gckvb8fzb.com?subject=git%20commit%20-m%20%22Hey%20there!%22) \
 gpg: [`4D38 99AF 73E7 F5FE 9B39 C822 272E D814 BF63 261F`](https://github.com/mrusme.gpg)
 
-xmpp: [marius@xmpp.co](xmpp:marius@xmpp.co) \
-omemo: `BEC2BE84 63FFDC65 B2BFD9D0 B690CA84 1BF71FC8 F8AF7155 DBCD217C 48852F3B`
+xmpp: [mrus@yourdata.forsale](xmpp:mrus@yourdata.forsale) \
+omemo: `1549F16C 5A534B99 A2403CF2 362CD53D 3240814B 4401D5EC 58BF1B18 4A829F54`
 
 [More contact options](https://xn--gckvb8fzb.com/contact/)
 
