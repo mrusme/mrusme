@@ -28,6 +28,7 @@
 - [conclusive](https://github.com/mrusme/conclusive): A CLI client for Plausible Analytics with nice ASCII graphs
 - [mercator](https://github.com/mrusme/mercator): OpenStreetMap but as terminal user interface (TUI) program
 - [cexec](https://github.com/mrusme/cexec): Execute any command, cache its output and get cached output on subsequent execution
+- [shell-time](https://github.com/mrusme/shell-time): Shell Time is for your shell, what Screen Time is for your phone!
 - [bookmarkdown](https://github.com/mrusme/bookmarkdown): A super lightweight tool for accessing links from a markdown file
 - [pushover-to-xmpp](https://github.com/mrusme/pushover-to-xmpp): Tiny Pushover to XMPP bridge written in Go
 
