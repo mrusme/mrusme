@@ -77,15 +77,14 @@ If you like the work I do and would like to support it I'd appreciate
 contributions via Monero, Bitcoin and Ethereum to the following addresses:
 
 
-| Monero | Bitcoin | Ethereum |
-| ------ | ------- | -------- |
-| ![47xsk5muV3VURKJLRqq39sHDS1XPbkY5cddvBeFBnSheRLk9ZPUxSsQJDU4hdbEnsBYSczoaKimwbWLdE9435AsSSqUGo2y](xmr.png) | ![bc1qedycy4xwcdlql0ku9c55z0fq4uuxvw470nxspp](btc.png) | ![0xcf29d9a44b151081c94f9c49152f4b90d5df6b4a](eth.png) |
-| [`47xsk5muV3VURKJLRqq39sHDS1XPbkY5cddvBeFBn` `SheRLk9ZPUxSsQJDU4hdbEnsBYSczoaK` `imwbWLdE9435AsSSqUGo2y`](monero:47xsk5muV3VURKJLRqq39sHDS1XPbkY5cddvBeFBnSheRLk9ZPUxSsQJDU4hdbEnsBYSczoaKimwbWLdE9435AsSSqUGo2y) | [`bc1qedycy4xwcdlql0ku9c55z0fq4uuxvw470nxspp`](bitcoin:bc1qedycy4xwcdlql0ku9c55z0fq4uuxvw470nxspp) | [`0xcf29d9a44b151081c94f9c49152f4b90d5df6b4a`](ethereum:0xcf29d9a44b151081c94f9c49152f4b90d5df6b4a) |
+| Monero | Bitcoin | Lightning | Ethereum |
+| ------ | ------- | --------- | -------- |
+| ![47xsk5muV3VURKJLRqq39sHDS1XPbkY5cddvBeFBnSheRLk9ZPUxSsQJDU4hdbEnsBYSczoaKimwbWLdE9435AsSSqUGo2y](xmr.png) | ![mrus@getalby.com](lns.png) | ![bc1qedycy4xwcdlql0ku9c55z0fq4uuxvw470nxspp](btc.png) | ![0xcf29d9a44b151081c94f9c49152f4b90d5df6b4a](eth.png) |
+| [`47xsk5muV3VURKJLRqq39sHDS1XPbkY5cddvBeFBn` `SheRLk9ZPUxSsQJDU4hdbEnsBYSczoaK` `imwbWLdE9435AsSSqUGo2y`](monero:47xsk5muV3VURKJLRqq39sHDS1XPbkY5cddvBeFBnSheRLk9ZPUxSsQJDU4hdbEnsBYSczoaKimwbWLdE9435AsSSqUGo2y) | [`bc1qedycy4xwcdlql0ku9c55z0fq4uuxvw470nxspp`](bitcoin:bc1qedycy4xwcdlql0ku9c55z0fq4uuxvw470nxspp) | [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`mrus@getalby.com`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](lightning:mrus@getalby.com) | [`0xcf29d9a44b151081c94f9c49152f4b90d5df6b4a`](ethereum:0xcf29d9a44b151081c94f9c49152f4b90d5df6b4a) |
 | (remove whitespaces when copy-pasting XMR address!) | | |
 
 
-If you don't have XMR, BTC or ETH, and would like to contribute via any other 
-cryptocurrency, you can use the following services:
+If you don't have XMR, BTC or ETH, and would like to contribute via any other cryptocurrency, you can use the following services:
 
 - [SideShift](https://sideshift.ai/btc/xmr)
 - [changenow](https://changenow.io/?from=btc&to=xmr)
