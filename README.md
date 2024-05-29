@@ -1,6 +1,3 @@
-![マリウス](header.jpg)
-
-
 ## OPEN SOURCE PROJECTS
 
 - [Neon Modem Overdrive](https://github.com/mrusme/neonmodem): BBS-style command line client that supports Discourse, Lemmy, Lobsters and Hacker News
