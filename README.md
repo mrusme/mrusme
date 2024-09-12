@@ -86,4 +86,5 @@ If you don't have XMR, BTC or ETH, and would like to contribute via any other cr
 - [SideShift](https://sideshift.ai/btc/xmr)
 - [changenow](https://changenow.io/?from=btc&to=xmr)
 - [fixedfloat](https://fixedfloat.com)
+- [more ...](https://kycnot.me/?t=exchange)
 
