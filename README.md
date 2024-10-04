@@ -22,7 +22,6 @@
 - [caldr](https://github.com/mrusme/caldr): A lightweight CLI / TUI calendar that supports CalDAV
 - [reader](https://github.com/mrusme/reader): A minimal command line reader offering better readability of web pages on the CLI
 - [zeit](https://github.com/mrusme/zeit): A CLI time-tracking tool compatible with the macOS/iOS Tyme format
-- [geld](https://github.com/mrusme/geld): A CLI budget-tracking tool, compatible with your bank's CSV exports
 - [conclusive](https://github.com/mrusme/conclusive): A CLI client for Plausible Analytics with nice ASCII graphs
 - [mercator](https://github.com/mrusme/mercator): OpenStreetMap but as terminal user interface (TUI) program
 - [cexec](https://github.com/mrusme/cexec): Execute any command, cache its output and get cached output on subsequent execution
