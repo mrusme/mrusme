@@ -15,7 +15,7 @@
 - [Gomphotherium](https://github.com/mrusme/gomphotherium): A TUI client for the Fediverse / Mastodon / Pleroma
 - [Paperwork \[dead\]](https://github.com/paperwork): OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 
-### Handy Tools
+### Tools
 
 - [wth](https://github.com/mrusme/wth): WTH (aka What The Heck) is the better personal information dashboard for your terminal
 - [addrb](https://github.com/mrusme/addrb): A lightweight CLI / TUI address book that supports CardDAV
@@ -34,36 +34,21 @@
 - [Gentoo](https://github.com/gentoo/gentoo/pulls?q=is%3Apr+author%3Amrusme+)
 
 
-### [More ...](https://github.com/mrusme?tab=repositories)
+### More
 
-
-## SETUP
-
-- [Computer](https://xn--gckvb8fzb.com/computer/) 
-  - [dotfiles](https://github.com/mrusme/dotfiles)
-- [Keyboard](https://xn--gckvb8fzb.com/keyboard/)
-- [Infrastructure](https://xn--gckvb8fzb.com/infrastructure/)
+- [All repositories](https://github.com/mrusme?tab=repositories)
 
 
 ## JOURNAL
 
-[![Latest posts](https://xn--gckvb8fzb.com/index.svg)](https://xn--gckvb8fzb.com)
-
-Read it at [https://xn--gckvb8fzb.com](https://xn--gckvb8fzb.com)! \
-That's [punycode](https://en.wikipedia.org/wiki/Punycode) for https://マリウス.com.
+Read it at [https://xn--gckvb8fzb.com](https://xn--gckvb8fzb.com) — that's 
+[punycode](https://en.wikipedia.org/wiki/Punycode) for https://マリウス.com.
 
 
-## LET'S TEAM UP
-
-Want to work on cool things, whether it's open source projects, an idea for a 
-startup or commercial projects? \
-Reach out!
+## CONTACT
 
 mail: [marius@xn--gckvb8fzb.com](mailto:marius@xn--gckvb8fzb.com?subject=git%20commit%20-m%20%22Hey%20there!%22) \
 gpg: [`4D38 99AF 73E7 F5FE 9B39 C822 272E D814 BF63 261F`](https://github.com/mrusme.gpg)
-
-xmpp: [mrus@yourdata.forsale](xmpp:mrus@yourdata.forsale) \
-omemo: `1549F16C 5A534B99 A2403CF2 362CD53D 3240814B 4401D5EC 58BF1B18 4A829F54`
 
 [More contact options](https://xn--gckvb8fzb.com/contact/)
 
