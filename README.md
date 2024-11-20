@@ -1,3 +1,5 @@
+![SIGSEGV](https://github.com/user-attachments/assets/6e45a081-4210-425a-904b-d8fb244d8009)
+
 ## OPEN SOURCE PROJECTS
 
 - [Neon Modem Overdrive](https://github.com/mrusme/neonmodem): BBS-style command line client that supports Discourse, Lemmy, Lobsters and Hacker News
