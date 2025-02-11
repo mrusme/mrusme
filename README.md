@@ -61,10 +61,10 @@ If you like the work I do and would like to support it I'd appreciate
 contributions via Monero, Bitcoin and Ethereum to the following addresses:
 
 
-| Monero | Bitcoin | Lightning | Ethereum |
-| ------ | ------- | --------- | -------- |
-| ![47xsk5muV3VURKJLRqq39sHDS1XPbkY5cddvBeFBnSheRLk9ZPUxSsQJDU4hdbEnsBYSczoaKimwbWLdE9435AsSSqUGo2y](xmr.png) | ![bc1qedycy4xwcdlql0ku9c55z0fq4uuxvw470nxspp](btc.png) | ![mrus@getalby.com](lns.png) | ![0x49450f74976cE020Ca4C6eCE6587E997C3A35881](eth.png) |
-| [`marius@xn--gckvb8fzb.com`](monero:47xsk5muV3VURKJLRqq39sHDS1XPbkY5cddvBeFBnSheRLk9ZPUxSsQJDU4hdbEnsBYSczoaKimwbWLdE9435AsSSqUGo2y) | [`marius@xn--gckvb8fzb.com`](bitcoin:bc1qedycy4xwcdlql0ku9c55z0fq4uuxvw470nxspp) | [`mrus@getalby.com`](lightning:mrus@getalby.com) | [`mrus.eth`](ethereum:mrus.eth) |
+| Monero | Bitcoin | Ethereum |
+| ------ | ------- | -------- |
+| ![47xsk5muV3VURKJLRqq39sHDS1XPbkY5cddvBeFBnSheRLk9ZPUxSsQJDU4hdbEnsBYSczoaKimwbWLdE9435AsSSqUGo2y](xmr.png) | ![bc1qedycy4xwcdlql0ku9c55z0fq4uuxvw470nxspp](btc.png) | ![0x49450f74976cE020Ca4C6eCE6587E997C3A35881](eth.png) |
+| [`marius@xn--gckvb8fzb.com`](monero:47xsk5muV3VURKJLRqq39sHDS1XPbkY5cddvBeFBnSheRLk9ZPUxSsQJDU4hdbEnsBYSczoaKimwbWLdE9435AsSSqUGo2y) | [`marius@xn--gckvb8fzb.com`](bitcoin:bc1qedycy4xwcdlql0ku9c55z0fq4uuxvw470nxspp) | [`mrus.eth`](ethereum:mrus.eth) |
 
 
 If you don't have XMR, BTC or ETH, and would like to contribute via any other cryptocurrency, you can use the following services:
