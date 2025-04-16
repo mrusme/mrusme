@@ -5,6 +5,9 @@
 - [Neon Modem Overdrive](https://github.com/mrusme/neonmodem): BBS-style command line client that supports Discourse, Lemmy, Lobsters and Hacker News
 - [Superhighway84](https://github.com/mrusme/superhighway84): Usenet-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
 - [Kopi](https://github.com/mrusme/kopi): Command-line (CLI) coffee journal designed for coffee enthusiasts.
+- [whats](https://github.com/mrusme/whats): command-line (CLI) for getting answers to everyday questions like
+  `whats 2 meters in feet` or more importantly `whats 1.21 gigawatts in watts`
+  - [bfstree.zig](https://github.com/mrusme/bfstree.zig): Breadth-first search implementation in Zig
 - [Planor](https://github.com/mrusme/planor): The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)
   - [go-fleek](https://github.com/mrusme/go-fleek): Tiny Go client library for the Fleek API
   - [go-render](https://github.com/mrusme/go-render): Tiny Go client library for the Render.com API
