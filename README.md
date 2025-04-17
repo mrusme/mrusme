@@ -73,8 +73,6 @@ contributions via Monero, Bitcoin and Ethereum to the following addresses:
 
 If you don't have XMR, BTC or ETH, and would like to contribute via any other cryptocurrency, you can use the following services:
 
-- [SideShift](https://sideshift.ai/btc/xmr)
+- [fixedfloat](https://ff.io)
 - [changenow](https://changenow.io/?from=btc&to=xmr)
-- [fixedfloat](https://fixedfloat.com)
 - [more ...](https://kycnot.me/?t=exchange)
-
