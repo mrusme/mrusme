@@ -9,8 +9,8 @@
   `whats 2 meters in feet` or more importantly `whats 1.21 gigawatts in watts`
   - [bfstree.zig](https://github.com/mrusme/bfstree.zig): Breadth-first search implementation in Zig
 - [Planor](https://github.com/mrusme/planor): The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)
-  - [go-fleek](https://github.com/mrusme/go-fleek): Tiny Go client library for the Fleek API
-  - [go-render](https://github.com/mrusme/go-render): Tiny Go client library for the Render.com API
+  - ~~[go-fleek](https://github.com/mrusme/go-fleek): Tiny Go client library for the Fleek API~~
+  - ~~[go-render](https://github.com/mrusme/go-render): Tiny Go client library for the Render.com API~~
 - [Journalist](https://github.com/mrusme/journalist): An RSS aggregator a.k.a. "self-hosted Feedly"
   - [Canard](https://github.com/mrusme/canard): A TUI client for the Journalist RSS aggregator
 - [Overpush](https://github.com/mrusme/overpush): A self-hosted, drop-in replacement for Pushover, that uses XMPP as delivery method and offers the same API for submitting messages
@@ -19,7 +19,7 @@
 - [Kiwi](https://github.com/mrusme/kiwi): Pimoroni Keybow based Macro Pad (a.k.a. poor-man's Elgato Stream Deck) 
 - [Cloudcash](https://github.com/mrusme/cloudcash): Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
 - [Gomphotherium](https://github.com/mrusme/gomphotherium): A TUI client for the Fediverse / Mastodon / Pleroma
-- [Paperwork \[dead\]](https://github.com/paperwork): OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
+- ~~[Paperwork](https://github.com/paperwork): OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep~~
 
 ### Tools
 
@@ -33,7 +33,7 @@
 - [cexec](https://github.com/mrusme/cexec): Execute any command, cache its output and get cached output on subsequent execution
 - [shell-time](https://github.com/mrusme/shell-time): Shell Time is for your shell, what Screen Time is for your phone!
 - [bookmarkdown](https://github.com/mrusme/bookmarkdown): A super lightweight tool for accessing links from a markdown file
-- [pushover-to-xmpp](https://github.com/mrusme/pushover-to-xmpp): Tiny Pushover to XMPP bridge written in Go
+- ~~[pushover-to-xmpp](https://github.com/mrusme/pushover-to-xmpp): Tiny Pushover to XMPP bridge written in Go~~
 
 ### Contributions
 
