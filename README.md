@@ -19,7 +19,6 @@
 - [Kiwi](https://github.com/mrusme/kiwi): Pimoroni Keybow based Macro Pad (a.k.a. poor-man's Elgato Stream Deck) 
 - [Cloudcash](https://github.com/mrusme/cloudcash): Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!
 - [Gomphotherium](https://github.com/mrusme/gomphotherium): A TUI client for the Fediverse / Mastodon / Pleroma
-- ~~[Paperwork](https://github.com/paperwork): OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep~~
 
 ### Tools
 
@@ -33,7 +32,6 @@
 - [cexec](https://github.com/mrusme/cexec): Execute any command, cache its output and get cached output on subsequent execution
 - [shell-time](https://github.com/mrusme/shell-time): Shell Time is for your shell, what Screen Time is for your phone!
 - [bookmarkdown](https://github.com/mrusme/bookmarkdown): A super lightweight tool for accessing links from a markdown file
-- ~~[pushover-to-xmpp](https://github.com/mrusme/pushover-to-xmpp): Tiny Pushover to XMPP bridge written in Go~~
 
 ### Contributions
 
