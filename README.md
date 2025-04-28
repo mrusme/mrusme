@@ -8,6 +8,7 @@
 - [whats](https://github.com/mrusme/whats): command-line (CLI) for getting answers to everyday questions like
   `whats 2 meters in feet` or more importantly `whats 1.21 gigawatts in watts`
   - [bfstree.zig](https://github.com/mrusme/bfstree.zig): Breadth-first search implementation in Zig
+- [zpoweralertd](https://github.com/mrusme/zpoweralertd): Zig rewrite and drop-in replacement of poweralertd
 - [Planor](https://github.com/mrusme/planor): The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)
   - ~~[go-fleek](https://github.com/mrusme/go-fleek): Tiny Go client library for the Fleek API~~
   - ~~[go-render](https://github.com/mrusme/go-render): Tiny Go client library for the Render.com API~~
