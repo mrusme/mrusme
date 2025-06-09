@@ -14,7 +14,7 @@
   - ~~[go-render](https://github.com/mrusme/go-render): Tiny Go client library for the Render.com API~~
 - [Journalist](https://github.com/mrusme/journalist): An RSS aggregator a.k.a. "self-hosted Feedly"
   - [Canard](https://github.com/mrusme/canard): A TUI client for the Journalist RSS aggregator
-- [Overpush](https://github.com/mrusme/overpush): A self-hosted, drop-in replacement for Pushover, that uses XMPP as delivery method and offers the same API for submitting messages
+- [Overpush](https://github.com/mrusme/overpush): A self-hosted, drop-in replacement for Pushover that can use XMPP, as well as a wide variety of other services as the delivery method while maintaining full compatibility with the Pushover API and also offering a flexible HTTP webhooks endpoint.
 - [xbsapi](https://github.com/mrusme/xbsapi): Alternative xBrowserSync API that is a single binary and supports SQLite3, PostgreSQL and MySQL
   - [xbscli](https://github.com/mrusme/xbscli): Command line interface for xbsapi and the official xBrowserSync API 
 - [Kiwi](https://github.com/mrusme/kiwi): Pimoroni Keybow based Macro Pad (a.k.a. poor-man's Elgato Stream Deck) 
