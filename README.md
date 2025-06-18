@@ -64,18 +64,5 @@ gpg: [`4D38 99AF 73E7 F5FE 9B39 C822 272E D814 BF63 261F`](https://github.com/mr
 
 ## SUPPORT
 
-If you like the work I do and would like to support it I'd appreciate
-contributions via Monero, Bitcoin and Ethereum to the following addresses:
+[If you like my work please consider supporting it.](https://xn--gckvb8fzb.com/support/)
 
-
-| Monero | Bitcoin | Ethereum |
-| ------ | ------- | -------- |
-| ![47xsk5muV3VURKJLRqq39sHDS1XPbkY5cddvBeFBnSheRLk9ZPUxSsQJDU4hdbEnsBYSczoaKimwbWLdE9435AsSSqUGo2y](xmr.png) | ![bc1qedycy4xwcdlql0ku9c55z0fq4uuxvw470nxspp](btc.png) | ![0x49450f74976cE020Ca4C6eCE6587E997C3A35881](eth.png) |
-| [`marius@xn--gckvb8fzb.com`](monero:47xsk5muV3VURKJLRqq39sHDS1XPbkY5cddvBeFBnSheRLk9ZPUxSsQJDU4hdbEnsBYSczoaKimwbWLdE9435AsSSqUGo2y) | [`marius@xn--gckvb8fzb.com`](bitcoin:bc1qedycy4xwcdlql0ku9c55z0fq4uuxvw470nxspp) | [`mrus.eth`](ethereum:mrus.eth) |
-
-
-If you don't have XMR, BTC or ETH, and would like to contribute via any other cryptocurrency, you can use the following services:
-
-- [fixedfloat](https://ff.io)
-- [changenow](https://changenow.io/?from=btc&to=xmr)
-- [more ...](https://kycnot.me/?t=exchange)
