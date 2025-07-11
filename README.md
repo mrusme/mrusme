@@ -53,9 +53,6 @@ Read it at [https://xn--gckvb8fzb.com](https://xn--gckvb8fzb.com) — that's
 
 ## CONTACT
 
-[![Static 
-Badge](https://img.shields.io/badge/Join_on_Matrix-green?style=for-the-badge&logo=element&logoColor=%23ffffff&label=Chat&labelColor=%23333&color=%230DBD8B&link=https%3A%2F%2Fmatrix.to%2F%23%2F%2521PHlbgZTdrhjkCJrfVY%253Amatrix.org)](https://matrix.to/#/%21PHlbgZTdrhjkCJrfVY%3Amatrix.org)
-
 mail: [marius@xn--gckvb8fzb.com](mailto:marius@xn--gckvb8fzb.com?subject=git%20commit%20-m%20%22Hey%20there!%22) \
 gpg: [`4D38 99AF 73E7 F5FE 9B39 C822 272E D814 BF63 261F`](https://github.com/mrusme.gpg)
 
