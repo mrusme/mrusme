@@ -4,6 +4,7 @@
 
 - [Neon Modem Overdrive](https://github.com/mrusme/neonmodem): BBS-style command line client that supports Discourse, Lemmy, Lobsters and Hacker News
 - [Superhighway84](https://github.com/mrusme/superhighway84): Usenet-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB
+- [Zeit](https://github.com/mrusme/zeit): A command line tool for tracking time.
 - [Kopi](https://github.com/mrusme/kopi): Command-line (CLI) coffee journal designed for coffee enthusiasts.
 - [whats](https://github.com/mrusme/whats): command-line (CLI) for getting answers to everyday questions like
   `whats 2 meters in feet` or more importantly `whats 1.21 gigawatts in watts`
@@ -28,8 +29,7 @@
 - [addrb](https://github.com/mrusme/addrb): A lightweight CLI / TUI address book that supports CardDAV
 - [caldr](https://github.com/mrusme/caldr): A lightweight CLI / TUI calendar that supports CalDAV
 - [reader](https://github.com/mrusme/reader): A minimal command line reader offering better readability of web pages on the CLI
-- [zeit](https://github.com/mrusme/zeit): A CLI time-tracking tool compatible with the macOS/iOS Tyme format
-- ~~[conclusive](https://github.com/mrusme/conclusive): A CLI client for Plausible Analytics with nice ASCII graphs~~
+~~[conclusive](https://github.com/mrusme/conclusive): A CLI client for Plausible Analytics with nice ASCII graphs~~
 - [mercator](https://github.com/mrusme/mercator): OpenStreetMap but as terminal user interface (TUI) program
 - [cexec](https://github.com/mrusme/cexec): Execute any command, cache its output and get cached output on subsequent execution
 - [shell-time](https://github.com/mrusme/shell-time): Shell Time is for your shell, what Screen Time is for your phone!
