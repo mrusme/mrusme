@@ -44,15 +44,9 @@ contribute, please [do so on Codeberg][cb].
 
 ### TOOLS
 
-- [addrb](https://codeberg.org/mrus/addrb)
-  ([GitHub mirror](https://github.com/mrusme/addrb)): A lightweight CLI / TUI
-  address book that supports CardDAV
 - [bookmarkdown](https://codeberg.org/mrus/bookmarkdown)
   ([GitHub mirror](https://github.com/mrusme/bookmarkdown)): A super lightweight
   tool for accessing links from a markdown file
-- [caldr](https://codeberg.org/mrus/caldr)
-  ([GitHub mirror](https://github.com/mrusme/caldr)): A lightweight CLI / TUI
-  calendar that supports CalDAV
 - [cexec](https://codeberg.org/mrus/cexec)
   ([GitHub mirror](https://github.com/mrusme/cexec)): Execute any command, cache
   its output and get cached output on subsequent execution
@@ -70,9 +64,15 @@ contribute, please [do so on Codeberg][cb].
 
 ### ARCHIVED
 
+- [addrb](https://codeberg.org/mrus/addrb)
+  ([GitHub mirror](https://github.com/mrusme/addrb)): A lightweight CLI / TUI
+  address book that supports CardDAV
 - [Bunnygoat](https://github.com/mrusme/bunnygoat): Bunnygoat, a POSIX shell
   script that imports Bunny (CDN) log files into GoatCounter, turning it into a
   server-side-only, poor man's analytics tool.
+- [caldr](https://codeberg.org/mrus/caldr)
+  ([GitHub mirror](https://github.com/mrusme/caldr)): A lightweight CLI / TUI
+  calendar that supports CalDAV
 - [conclusive](https://github.com/mrusme/conclusive): A CLI client for Plausible
   Analytics with nice ASCII graphs
 - [go-poolsuite](https://github.com/mrusme/go-poolsuite): Poolsuite FM player as
@@ -135,7 +135,5 @@ xmpp:
 
 [If you like my work please consider supporting it.](https://xn--gckvb8fzb.com/support/)
 
-
 [cb]: https://codeberg.org/mrus?tab=repositories
 [gh]: https://github.com/mrusme?tab=repositories
-
