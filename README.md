@@ -5,130 +5,56 @@ contribute, please [do so on tty.fail][tty].
 
 ## OPEN SOURCE PROJECTS
 
-- [adblock-webkit-convert.zig](https://tty.fail/mrus/adblock-webkit-convert.zig)
-  ([GitHub mirror](https://github.com/mrusme/adblock-webkit-convert.zig)):
-  Convert Adblock/uBlock filter lists to Safari/WebKitGTK content blocker JSON
-  format
-- [Browser Select](https://tty.fail/mrus/browserselect)
-  ([GitHub mirror](https://github.com/mrusme/browserselect)): Choose between
-  browsers when opening links.
-- [busybar.zig](https://tty.fail/mrus/busybar.zig)
-  ([GitHub mirror](https://github.com/mrusme/busybar.zig)): Flipper BUSY Bar
-  client library in Zig
-- [cexec](https://tty.fail/mrus/cexec)
-  ([GitHub mirror](https://github.com/mrusme/cexec)): Execute any command, cache
-  its output and get cached output on subsequent execution
-- [Cloudcash](https://tty.fail/mrus/cloudcash)
-  ([GitHub mirror](https://github.com/mrusme/cloudcash)): Check your cloud
-  spending from the CLI, from Waybar, and from the macOS menu bar!
-- [Darkwing Ducky](https://tty.fail/mrus/darkwing)
-  ([GitHub mirror](https://github.com/mrusme/darkwing)): A BadUSB ("Rubber
-  Ducky") firmware for the PicoUSB RP2040-based board.
-- [Hyperuplink](https://tty.fail/hyperuplink/hyperuplink)
-  ([GitHub mirror](https://github.com/hyperuplink/hyperuplink)): A Super High
-  Speed Internet Bulletin Board
-- [Kopi](https://tty.fail/mrus/kopi)
-  ([GitHub mirror](https://github.com/mrusme/kopi)): Command-line (CLI) coffee
-  journal designed for coffee enthusiasts.
-- [Neon Modem Overdrive](https://tty.fail/mrus/neonmodem)
-  ([GitHub mirror](https://github.com/mrusme/neonmodem)): BBS-style command line
-  client that supports Discourse, Lemmy, Lobsters and Hacker News
-  - Website: [neonmodem.com](https://neonmodem.com)
-- [Netrunner](https://tty.fail/mrus/netrunner)
-  ([GitHub mirror](https://github.com/mrusme/netrunner)): The hacker's browser.
-- [osdetect](https://tty.fail/mrus/osdetect)
-  ([GitHub mirror](https://github.com/mrusme/osdetect)): Runtime operating
-  system and distribution detection for Zig.
-- [Overpush](https://tty.fail/mrus/overpush)
-  ([GitHub mirror](https://github.com/mrusme/overpush)): A self-hosted, drop-in
-  replacement for Pushover that can use XMPP, as well as a wide variety of other
-  services as the delivery method while maintaining full compatibility with the
-  Pushover API and also offering a flexible HTTP webhooks endpoint.
-  - Looking for a hosted version of _Overpush_? Check
-    [📨🚕 _(MSG.TAXI)_](https://msg.taxi)!
-- [reader](https://tty.fail/mrus/reader)
-  ([GitHub mirror](https://github.com/mrusme/reader)): A minimal command line
-  reader offering better readability of web pages on the CLI
-- [shell-time](https://tty.fail/mrus/shell-time)
-  ([GitHub mirror](https://github.com/mrusme/shell-time)): Shell Time is for
-  your shell, what Screen Time is for your phone!
-- [ssh-askpass-zigtk](https://tty.fail/mrus/ssh-askpass-zigtk)
-  ([GitHub mirror](https://github.com/mrusme/ssh-askpass-zigtk)): ssh-askpass
-  using GTK4 without X11 dependencies and written in Zig
-- [Switchyard](https://tty.fail/mrus/switchyard)
-  ([GitHub mirror](https://github.com/mrusme/switchyard)): A lightweight bridge
-  that accepts email over SMTP and forwards each message to XMPP.
-- [sysdeck](https://tty.fail/mrus/sysdeck)
-  ([GitHub mirror](https://github.com/mrusme/sysdeck)): A command center for
-  Linux/BSD desktops.
-- [usbec](https://tty.fail/mrus/usbec)
-  ([GitHub mirror](https://github.com/mrusme/usbec)): USB Equipment Commander
-- [whats](https://tty.fail/mrus/whats)
-  ([GitHub mirror](https://github.com/mrusme/whats)): command-line (CLI) for
-  getting answers to everyday questions like `whats 2 meters in feet` or more
-  importantly `whats 1.21 gigawatts in watts`
-  - [bfstree.zig](https://tty.fail/mrus/bfstree.zig)
-    ([GitHub mirror](https://github.com/mrusme/bfstree.zig)): Breadth-first
-    search implementation in Zig
-- [Zeit](https://tty.fail/mrus/zeit)
-  ([GitHub mirror](https://github.com/mrusme/zeit)): A command line tool for
-  tracking time.
-  - Website: [zeit.observer](https://zeit.observer)
-- [zpoweralertd](https://tty.fail/mrus/zpoweralertd)
-  ([GitHub mirror](https://github.com/mrusme/zpoweralertd)): Zig rewrite and
-  drop-in replacement of poweralertd
+| Repository                                                                     | Mirror                                                         | Web                                                                                            | Description                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [adblock-webkit-convert.zig](https://tty.fail/mrus/adblock-webkit-convert.zig) | [GitHub](https://github.com/mrusme/adblock-webkit-convert.zig) |                                                                                                | Convert Adblock/uBlock filter lists to Safari/WebKitGTK content blocker JSON format                                                                                                                                                                   |
+| [bfstree.zig](https://tty.fail/mrus/bfstree.zig)                               | [GitHub](https://github.com/mrusme/bfstree.zig)                | [🌐](https://xn--gckvb8fzb.com/whats-1-21-gigawatts-in-watts/)                                 | Breadth-first search implementation in Zig, used by _whats_                                                                                                                                                                                           |
+| [Browser Select](https://tty.fail/mrus/browserselect)                          | [GitHub](https://github.com/mrusme/browserselect)              |                                                                                                | Choose between browsers when opening links.                                                                                                                                                                                                           |
+| [busybar.zig](https://tty.fail/mrus/busybar.zig)                               | [GitHub](https://github.com/mrusme/busybar.zig)                | [🌐](https://xn--gckvb8fzb.com/flipper-busy-bar/)                                              | Flipper BUSY Bar client library in Zig                                                                                                                                                                                                                |
+| [cexec](https://tty.fail/mrus/cexec)                                           | [GitHub](https://github.com/mrusme/cexec)                      |                                                                                                | Execute any command, cache its output and get cached output on subsequent execution                                                                                                                                                                   |
+| [Cloudcash](https://tty.fail/mrus/cloudcash)                                   | [GitHub](https://github.com/mrusme/cloudcash)                  |                                                                                                | Check your cloud spending from the CLI, from Waybar, and from the macOS menu bar!                                                                                                                                                                     |
+| [Darkwing Ducky](https://tty.fail/mrus/darkwing)                               | [GitHub](https://github.com/mrusme/darkwing)                   |                                                                                                | A BadUSB ("Rubber Ducky") firmware for the PicoUSB RP2040-based board.                                                                                                                                                                                |
+| [Hyperuplink](https://tty.fail/hyperuplink/hyperuplink)                        | [GitHub](https://github.com/hyperuplink/hyperuplink)           | [🌐](https://hyperup.link)                                                                     | A Super High Speed Internet Bulletin Board                                                                                                                                                                                                            |
+| [Kopi](https://tty.fail/mrus/kopi)                                             | [GitHub](https://github.com/mrusme/kopi)                       | [🌐](https://xn--gckvb8fzb.com/kopi-track-your-coffee-brewing-consumption/)                    | Command-line (CLI) coffee journal designed for coffee enthusiasts.                                                                                                                                                                                    |
+| [Neon Modem Overdrive](https://tty.fail/mrus/neonmodem)                        | [GitHub](https://github.com/mrusme/neonmodem)                  | [🌐](https://neonmodem.com)                                                                    | BBS-style command line client that supports Discourse, Lemmy, Lobsters and Hacker News.                                                                                                                                                               |
+| [Netrunner](https://tty.fail/mrus/netrunner)                                   | [GitHub](https://github.com/mrusme/netrunner)                  | [🌐](https://netrunner.surf)                                                                   | The hacker's browser.                                                                                                                                                                                                                                 |
+| [osdetect](https://tty.fail/mrus/osdetect)                                     | [GitHub](https://github.com/mrusme/osdetect)                   |                                                                                                | Runtime operating system and distribution detection for Zig.                                                                                                                                                                                          |
+| [Overpush](https://tty.fail/mrus/overpush)                                     | [GitHub](https://github.com/mrusme/overpush)                   | [🌐](https://msg.taxi)                                                                         | A self-hosted, drop-in replacement for Pushover that can use XMPP, as well as a wide variety of other services as the delivery method while maintaining full compatibility with the Pushover API and also offering a flexible HTTP webhooks endpoint. |
+| [reader](https://tty.fail/mrus/reader)                                         | [GitHub](https://github.com/mrusme/reader)                     | [🌐](https://xn--gckvb8fzb.com/reader-web-page-readability-on-the-cli/)                        | A minimal command line reader offering better readability of web pages on the CLI                                                                                                                                                                     |
+| [shell-time](https://tty.fail/mrus/shell-time)                                 | [GitHub](https://github.com/mrusme/shell-time)                 |                                                                                                | Shell Time is for your shell, what Screen Time is for your phone!                                                                                                                                                                                     |
+| [ssh-askpass-zigtk](https://tty.fail/mrus/ssh-askpass-zigtk)                   | [GitHub](https://github.com/mrusme/ssh-askpass-zigtk)          | [🌐](https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/)                                     | ssh-askpass using GTK4 without X11 dependencies and written in Zig                                                                                                                                                                                    |
+| [Switchyard](https://tty.fail/mrus/switchyard)                                 | [GitHub](https://github.com/mrusme/switchyard)                 | [🌐](https://xn--gckvb8fzb.com/teaching-an-old-dog-new-tricks-forgejo-xmpp/)                   | A lightweight bridge that accepts email over SMTP and forwards each message to XMPP.                                                                                                                                                                  |
+| [sysdeck](https://tty.fail/mrus/sysdeck)                                       | [GitHub](https://github.com/mrusme/sysdeck)                    |                                                                                                | A command center for Linux/BSD desktops.                                                                                                                                                                                                              |
+| [usbec](https://tty.fail/mrus/usbec)                                           | [GitHub](https://github.com/mrusme/usbec)                      |                                                                                                | USB Equipment Commander                                                                                                                                                                                                                               |
+| [whats](https://tty.fail/mrus/whats)                                           | [GitHub](https://github.com/mrusme/whats)                      | [🌐](https://xn--gckvb8fzb.com/whats-1-21-gigawatts-in-watts/)                                 | command-line (CLI) for getting answers to everyday questions like `whats 2 meters in feet` or more importantly `whats 1.21 gigawatts in watts`                                                                                                        |
+| [Zeit](https://tty.fail/mrus/zeit)                                             | [GitHub](https://github.com/mrusme/zeit)                       | [🌐](https://zeit.observer)                                                                    | A command line tool for tracking time.                                                                                                                                                                                                                |
+| [zpoweralertd](https://tty.fail/mrus/zpoweralertd)                             | [GitHub](https://github.com/mrusme/zpoweralertd)               | [🌐](https://xn--gckvb8fzb.com/zpoweralertd-a-poweralertd-drop-in-replacement-written-in-zig/) | Zig rewrite and drop-in replacement of poweralertd                                                                                                                                                                                                    |
 
 ### ARCHIVED
 
-- [addrb](https://github.com/mrusme/addrb)): A lightweight CLI / TUI address
-  book that supports CardDAV
-- [bookmarkdown](https://tty.fail/mrus/bookmarkdown)
-  ([GitHub mirror](https://github.com/mrusme/bookmarkdown)): A super lightweight
-  tool for accessing links from a markdown file
-- [Bunnygoat](https://github.com/mrusme/bunnygoat): Bunnygoat, a POSIX shell
-  script that imports Bunny (CDN) log files into GoatCounter, turning it into a
-  server-side-only, poor man's analytics tool.
-- [caldr](https://github.com/mrusme/caldr)): A lightweight CLI / TUI calendar
-  that supports CalDAV
-- [conclusive](https://github.com/mrusme/conclusive): A CLI client for Plausible
-  Analytics with nice ASCII graphs
-- [go-poolsuite](https://github.com/mrusme/go-poolsuite): Poolsuite FM player as
-  Go module
-- [Gomphotherium](https://github.com/mrusme/gomphotherium): A TUI client for the
-  Fediverse / Mastodon / Pleroma
-- [Journalist](https://github.com/mrusme/journalist): An RSS aggregator a.k.a.
-  "self-hosted Feedly"
-  - [Canard](https://github.com/mrusme/canard): A TUI client for the Journalist
-    RSS aggregator
-- [Kiwi](https://github.com/mrusme/kiwi): Pimoroni Keybow based Macro Pad
-  (a.k.a. poor-man's Elgato Stream Deck)
-- [Lemon](https://github.com/mrusme/lemon): Lemon is a notification proxy that
-  supports D-Bus, as well as the Pimoroni Raspberry Pi Unicorn Hat HD, allowing
-  you to build a cheap, open-source alternative to LaMetric.
-- [mercator](https://tty.fail/mrus/mercator)
-  ([GitHub mirror](https://github.com/mrusme/mercator)): OpenStreetMap but as
-  terminal user interface (TUI) program
-- [Planor](https://github.com/mrusme/planor): The Cloud Aviator: TUI client for
-  cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)
-  - [go-fleek](https://github.com/mrusme/go-fleek): Tiny Go client library for
-    the Fleek API
-  - [go-render](https://github.com/mrusme/go-render): Tiny Go client library for
-    the Render.com API
-- [pushover-to-xmpp](https://github.com/mrusme/pushover-to-xmpp): Tiny Pushover
-  to XMPP bridge written in Go
-- [Superhighway84](https://tty.fail/mrus/superhighway84)
-  ([GitHub mirror](https://github.com/mrusme/superhighway84)): Usenet-inspired,
-  uncensorable, decentralized internet discussion system running on IPFS &
-  OrbitDB
-  - Website: [superhighway84.com](https://superhighway84.com)
-- [wth](https://github.com/mrusme/wth): What The Heck: The better personal
-  information dashboard for your terminal
-  - [libwth](https://github.com/mrusme/libwth): WTH library for developing
-    modules
-- [xbsapi](https://github.com/mrusme/xbsapi): Alternative xBrowserSync API that
-  is a single binary and supports SQLite3, PostgreSQL and MySQL
-  - [xbscli](https://github.com/mrusme/xbscli): Command line interface for
-    xbsapi and the official xBrowserSync API
+| Repository                                                     | Mirror                                             | Web                                                                                                               | Description                                                                                                                                                                 |
+| -------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [addrb](https://github.com/mrusme/addrb)                       |                                                    |                                                                                                                   | A lightweight CLI / TUI address book that supports CardDAV                                                                                                                  |
+| [bookmarkdown](https://tty.fail/mrus/bookmarkdown)             | [GitHub](https://github.com/mrusme/bookmarkdown)   |                                                                                                                   | A super lightweight tool for accessing links from a markdown file                                                                                                           |
+| [Bunnygoat](https://github.com/mrusme/bunnygoat)               |                                                    | [🌐](https://xn--gckvb8fzb.com/no-more-tea-leaf-reading)                                                          | Bunnygoat, a POSIX shell script that imports Bunny (CDN) log files into GoatCounter, turning it into a server-side-only, poor man's analytics tool.                         |
+| [caldr](https://github.com/mrusme/caldr)                       |                                                    |                                                                                                                   | A lightweight CLI / TUI calendar that supports CalDAV                                                                                                                       |
+| [Canard](https://github.com/mrusme/canard)                     |                                                    | [🌐](https://xn--gckvb8fzb.com/canard-a-command-line-tui-client-for-the-journalist-rss-aggregator/)               | A TUI client for the Journalist RSS aggregator                                                                                                                              |
+| [conclusive](https://github.com/mrusme/conclusive)             |                                                    | [🌐](https://xn--gckvb8fzb.com/conclusive-a-command-line-client-for-plausible-analytics/)                         | A CLI client for Plausible Analytics with nice ASCII graphs                                                                                                                 |
+| [go-fleek](https://github.com/mrusme/go-fleek)                 |                                                    |                                                                                                                   | Tiny Go client library for the Fleek API, used by _Planor_                                                                                                                  |
+| [go-poolsuite](https://github.com/mrusme/go-poolsuite)         |                                                    |                                                                                                                   | Poolsuite FM player as Go module                                                                                                                                            |
+| [go-render](https://github.com/mrusme/go-render)               |                                                    |                                                                                                                   | Tiny Go client library for the Render.com API, used by _Planor_                                                                                                             |
+| [Gomphotherium](https://github.com/mrusme/gomphotherium)       |                                                    | [🌐](https://xn--gckvb8fzb.com/gomphotherium-a-command-line-mastodon-client/)                                     | A TUI client for the Fediverse / Mastodon / Pleroma                                                                                                                         |
+| [Journalist](https://github.com/mrusme/journalist)             |                                                    | [🌐](https://xn--gckvb8fzb.com/journalist-v1/)                                                                    | An RSS aggregator a.k.a. "self-hosted Feedly"                                                                                                                               |
+| [Kiwi](https://github.com/mrusme/kiwi)                         |                                                    | [🌐](https://xn--gckvb8fzb.com/kiwi-a-nerves-based-firmware-for-the-pimoroni-keybow/)                             | Pimoroni Keybow based Macro Pad (a.k.a. poor-man's Elgato Stream Deck)                                                                                                      |
+| [Lemon](https://github.com/mrusme/lemon)                       |                                                    | [🌐](https://xn--gckvb8fzb.com/lemon-v2/)                                                                         | Lemon is a notification proxy that supports D-Bus, as well as the Pimoroni Raspberry Pi Unicorn Hat HD, allowing you to build a cheap, open-source alternative to LaMetric. |
+| [libwth](https://github.com/mrusme/libwth)                     |                                                    |                                                                                                                   | WTH library for developing modules, used by _wth_                                                                                                                           |
+| [mercator](https://tty.fail/mrus/mercator)                     | [GitHub](https://github.com/mrusme/mercator)       |                                                                                                                   | OpenStreetMap but as terminal user interface (TUI) program                                                                                                                  |
+| [Planor](https://github.com/mrusme/planor)                     |                                                    | [🌐](https://xn--gckvb8fzb.com/planor-the-cloud-aviator/)                                                         | The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...)                                                                               |
+| [pushover-to-xmpp](https://github.com/mrusme/pushover-to-xmpp) |                                                    |                                                                                                                   | Tiny Pushover to XMPP bridge written in Go                                                                                                                                  |
+| [Superhighway84](https://tty.fail/mrus/superhighway84)         | [GitHub](https://github.com/mrusme/superhighway84) | [🌐](https://superhighway84.com)                                                                                  | Usenet-inspired, uncensorable, decentralized internet discussion system running on IPFS & OrbitDB.                                                                          |
+| [wth](https://github.com/mrusme/wth)                           |                                                    |                                                                                                                   | What The Heck: The better personal information dashboard for your terminal                                                                                                  |
+| [xbsapi](https://github.com/mrusme/xbsapi)                     |                                                    | [🌐](https://xn--gckvb8fzb.com/xbsapi-an-alternative-xbrowsersync-api-that-supports-sqlite-postgresql-and-mysql/) | Alternative xBrowserSync API that is a single binary and supports SQLite3, PostgreSQL and MySQL                                                                             |
+| [xbscli](https://github.com/mrusme/xbscli)                     |                                                    | [🌐](https://xn--gckvb8fzb.com/xbsapi-an-alternative-xbrowsersync-api-that-supports-sqlite-postgresql-and-mysql/) | Command line interface for xbsapi and the official xBrowserSync API                                                                                                         |
 
 ### CONTRIBUTIONS
 
